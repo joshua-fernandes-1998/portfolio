@@ -14,8 +14,7 @@ Google Sheets, AWS, Asana
 
 ## Employment
 ### London Fire Brigade, London 
-<p align="right">August 2023 - Present</p>
-### Analyst - Training, Performance & Compliance
+### Analyst - Training, Performance & Compliance (_August 2023 - Present_)
 - **Integrated SSRS reports with Power Query Data Modelling** in **Excel to automate weekly 
 reporting**, enabling efficient firefighters and timely skill gap recognition
 for over **14000 brigade employee course relevance accurately** in an **Agile Methodology**
@@ -36,8 +35,8 @@ the requisite skills for firefighter training courses **ensuring compliance with
 standards of contract management and enhancing the quality within the risk
 framework** of instruction provided up to **4.4%**
 
-### Beyond MI, London <p align="right">September 2022 - January 2023</p>
-### Data Governance Analyst
+### Beyond MI, London
+### Data Governance Analyst (_September 2022 - January 2023_)
 - **Implemented Python scripts** to automate weekly financial crime dashboards,
 **optimizing reporting efficiency** and facilitating timely insights through **enhanced
 data visualization** with **decrease in 47% manual error within regulation and
@@ -54,8 +53,8 @@ for ensuring robust techniques within the Financial Crime Regulation and governa
 that resulted in **80% conversion rate from leads identified to agreements reached**, for
 effective
 
-### Drishti Works, Mumbai <p align="right">December 2019 – September 2021</p>
-### Data Analyst
+### Drishti Works, Mumbai
+### Data Analyst (_December 2019 – September 2021_)
 - **Preprocessed over 1500 raw data** on monthly basis using **Python libraries and image
 segmentation techniques** to generate refined datasets for machine learning model
 training, distributing them among the team on a weekly basis for **collaborative
@@ -73,8 +72,8 @@ project lifecycles** in an **Agile environment over Asana*, ensuring efficient
 communication and **progress monitoring for timely project completion**
 
 ## Education
-### University of Surrey <p align="right">September 2021- January 2023</p>
-### MSc Business Analytics
+### University of Surrey
+### MSc Business Analytics (_September 2021- January 2023_)
 - Coursework: Data Analytics, Supply Chain Management, Statistics and Econometrics,
 Marketing Analytics, Operational Analytics, Machine Learning & Visualization.
 - Dissertation: Sentiment Analysis as a tool for Business Analytics in the Food Sector.
