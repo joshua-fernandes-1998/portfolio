@@ -75,7 +75,7 @@ project lifecycles** in an **Agile environment over Asana**, ensuring efficient
 communication and **progress monitoring for timely project completion**
 
 ## Education
-### University of Surrey
+### University of Surrey, Guildford
 <span style="float: right;">September 2021- January 2023</span>
 ### MSc Business Analytics
 - Coursework: Data Analytics, Supply Chain Management, Statistics and Econometrics,
