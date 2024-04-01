@@ -1,10 +1,10 @@
 # Data Analyst
 
 ## Summary
-Data Analyst with 3 years of work experience adeptly leveraging Excel, Python, SQL, Power
-BI, and Git for comprehensive analysis. Proficient in meeting reporting requirements,
-ensuring data integrity, and driving efficiency. Ready to apply analytical prowess to excel in
-the role of Data Analyst, utilizing comprehensive skills and expertise
+Data Analyst with **3 years of work experience** adeptly leveraging **Excel, Python, SQL, Power
+BI, and Git** for comprehensive analysis. Proficient in **meeting reporting requirements,
+ensuring data integrity,** and **driving efficiency**. Ready to apply analytical prowess to excel in
+the role of **Data Analyst**, utilizing comprehensive skills and expertise
 to contribute effectively towards organizational goals and success.
 
 ## Employment
