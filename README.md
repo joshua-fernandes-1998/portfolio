@@ -71,7 +71,7 @@ download, and bucket creation tasks for **optimizing data management processes a
 enhancing efficiency in cloud storage operations**
 - Created a detailed **metadata sheet on Google Sheets** to **collaborate with
 stakeholders**, facilitating reporting and milestone tracking throughout **3 SDLC
-project lifecycles** in an **Agile environment over Asana*, ensuring efficient
+project lifecycles** in an **Agile environment over Asana**, ensuring efficient
 communication and **progress monitoring for timely project completion**
 
 ## Education
