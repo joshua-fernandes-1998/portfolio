@@ -7,8 +7,8 @@ ensuring data integrity, and driving efficiency. Ready to apply analytical prowe
 the role of Data Analyst, utilizing comprehensive skills and expertise
 to contribute effectively towards organizational goals and success.
 
-### Employment
-Analyst - Training, Performance & Compliance at London Fire Brigade
+## Employment
+### Analyst - Training, Performance & Compliance at London Fire Brigade
 - Integrated SSRS reports with Power Query Data Modelling in Excel to automate weekly
 monitoring and reporting, enabling efficient firefighters and timely skill gap recognition
 for over 14000 brigade employee course relevance accurately in an Agile Methodology
