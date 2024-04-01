@@ -1,6 +1,6 @@
 # Data Analyst
 
-### Summary
+## Summary
 Data Analyst with 3 years of work experience adeptly leveraging Excel, Python, SQL, Power
 BI, and Git for comprehensive analysis. Proficient in meeting reporting requirements,
 ensuring data integrity, and driving efficiency. Ready to apply analytical prowess to excel in
