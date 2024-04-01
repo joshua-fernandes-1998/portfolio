@@ -1,4 +1,4 @@
-# Data Analyst
+# Portfolio
 
 ## Summary
 Data Analyst with **3 years of work experience** adeptly leveraging **Excel, Python, SQL, Power
@@ -15,7 +15,7 @@ Google Sheets, AWS, Asana
 ## Employment
 ### London Fire Brigade, London 
 <span style="float: right;">August 2023 - Present</span>
-#### Analyst - Training, Performance & Compliance
+### Analyst - Training, Performance & Compliance
 - **Integrated SSRS reports with Power Query Data Modelling** in **Excel to automate weekly 
 reporting**, enabling efficient firefighters and timely skill gap recognition
 for over **14000 brigade employee course relevance accurately** in an **Agile Methodology**
@@ -76,7 +76,8 @@ communication and **progress monitoring for timely project completion**
 
 ## Education
 ### University of Surrey
-### MSc Business Analytics (_September 2021- January 2023_)
+<span style="float: right;">September 2021- January 2023</span>
+### MSc Business Analytics
 - Coursework: Data Analytics, Supply Chain Management, Statistics and Econometrics,
 Marketing Analytics, Operational Analytics, Machine Learning & Visualization.
 - Dissertation: Sentiment Analysis as a tool for Business Analytics in the Food Sector.
