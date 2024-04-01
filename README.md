@@ -1,5 +1,7 @@
 # Portfolio
-
+## Connect with me
+[LinkedIn](https://www.linkedin.com/in/joshua-fernandes-a31957178/)
+[Email](mailto:joshrf98@yahoo.co.in)
 ## Summary
 Data Analyst with **3 years of work experience** adeptly leveraging **Excel, Python, SQL, Power
 BI, and Git** for comprehensive analysis. Proficient in **meeting reporting requirements,
