@@ -14,7 +14,8 @@ Google Sheets, AWS, Asana
 
 ## Employment
 ### London Fire Brigade, London 
-### Analyst - Training, Performance & Compliance (_August 2023 - Present_)
+<span style="float: right;">August 2023 - Present</span>
+#### Analyst - Training, Performance & Compliance (_August 2023 - Present_)
 - **Integrated SSRS reports with Power Query Data Modelling** in **Excel to automate weekly 
 reporting**, enabling efficient firefighters and timely skill gap recognition
 for over **14000 brigade employee course relevance accurately** in an **Agile Methodology**
