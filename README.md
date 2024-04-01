@@ -15,7 +15,7 @@ Google Sheets, AWS, Asana
 ## Employment
 ### London Fire Brigade, London 
 <span style="float: right;">August 2023 - Present</span>
-#### Analyst - Training, Performance & Compliance (_August 2023 - Present_)
+#### Analyst - Training, Performance & Compliance
 - **Integrated SSRS reports with Power Query Data Modelling** in **Excel to automate weekly 
 reporting**, enabling efficient firefighters and timely skill gap recognition
 for over **14000 brigade employee course relevance accurately** in an **Agile Methodology**
@@ -37,7 +37,8 @@ standards of contract management and enhancing the quality within the risk
 framework** of instruction provided up to **4.4%**
 
 ### Beyond MI, London
-### Data Governance Analyst (_September 2022 - January 2023_)
+<span style="float: right;">September 2023 - January 2023</span>
+### Data Governance Analyst
 - **Implemented Python scripts** to automate weekly financial crime dashboards,
 **optimizing reporting efficiency** and facilitating timely insights through **enhanced
 data visualization** with **decrease in 47% manual error within regulation and
@@ -55,7 +56,8 @@ that resulted in **80% conversion rate from leads identified to agreements reach
 effective
 
 ### Drishti Works, Mumbai
-### Data Analyst (_December 2019 – September 2021_)
+<span style="float: right;">December 2019 – September 2021</span>
+### Data Analyst
 - **Preprocessed over 1500 raw data** on monthly basis using **Python libraries and image
 segmentation techniques** to generate refined datasets for machine learning model
 training, distributing them among the team on a weekly basis for **collaborative
