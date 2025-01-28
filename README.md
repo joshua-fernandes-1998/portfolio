@@ -3,21 +3,27 @@
 [LinkedIn](https://www.linkedin.com/in/joshua-fernandes-a31957178/)
 [Email](mailto:joshrf98@yahoo.co.in)
 ## Summary
-Data Analyst with **3 years of work experience** adeptly leveraging **Excel, Python, SQL, Power
-BI, and Git** for comprehensive analysis. Proficient in **meeting reporting requirements,
+Data Analyst with **4 years of work experience** adeptly leveraging **SQL, Power
+BI, Excel, Python, and Git** for comprehensive analysis. Proficient in **meeting reporting requirements,
 ensuring data integrity,** and **driving efficiency**. Ready to apply analytical prowess to excel in
-the role of **Data Analyst**, utilizing comprehensive skills and expertise
-to contribute effectively towards organizational goals and success.
+the role of **Data Analyst**, utilising comprehensive skills and expertise
+to contribute effectively towards organisational goals and success.
 
 ## Technical Skills
-Microsoft Excel, Microsoft Power Point, MS Power Automate, Python, SQL
-(SQLite), Git version control, Microsoft PowerBI, Microsoft PowerShell, Microsoft Dynamic 365,
-Google Sheets, AWS, Asana
+SQL (T-SQL, SSMS, SSRS, SQLite), Microsoft PowerBI, Power Automate, Power App, Excel, Python, Git version control, Microsoft PowerShell,
+Google Sheets, AWS, & Asana
 
 ## Employment
 ### London Fire Brigade, London 
 <span style="float: right;">August 2023 - Present</span>
-### Analyst - Training, Performance & Compliance
+#### Business Intelligence Analyst
+-	Developed a **Power BI dashboard to track mandatory training completion for fire rescue & control staff**, enabling managers to identify compliance gaps & improve productivity; integrated **Power Automate to streamline email notifications** for overdue training.
+-	Implemented a **Power BI dashboard** to monitor operational firefighter driving bans by **conducting data analysis and modelling with RLS**, including segmentation by fire stations & London boroughs, **historical KPIs & predictive insights** for periodic ban duration.
+-	Created, updated, and maintained over **600 T-SQL stored procedure (automated scripts) on SQL server,** liaising daily with operational stakeholders ensuring alignments with training course requirements & **deployments on production environments.**
+-	Developed **Power BI paginated reports focused on tracking KPI metrics to for policies and procedures**, and scheduled **automated flow in Power Automate to deliver report to stakeholders** for the Directorates & Head of Services on a quarterly basis.
+-	**Handled over 40% of weekly workload by managing ad-hoc data requests** by developing SQL queries to **manipulate large volumes of data from transactional databases**, and effectively communicate analysis to a **wide range of non-technical stakeholders.**
+
+#### Analyst - Training, Performance & Compliance
 - **Integrated SSRS reports with Power Query Data Modelling** in **Excel to automate weekly 
 reporting**, enabling efficient firefighters and timely skill gap recognition
 for over **14000 brigade employee course relevance accurately** in an **Agile Methodology**
@@ -33,14 +39,13 @@ cancellations**
 Excel Online, and Outlook email** to **streamline course cancellation tracking** thus
 **reducing manual email sending time and achieving successful handling of monthly 150
 cancellations**
-- **Conducted monthly fit-to-train** checks on third-party trainers to ensure they possessed
-the requisite skills for firefighter training courses **ensuring compliance with training
-standards of contract management and enhancing the quality within the risk
-framework** of instruction provided up to **4.4%**
+- Identified business process opportunity by developing a **Power App to improved compliance
+quality standards of trainers** for conducting monthly checks and **sending automated emails to service providers** for
+further liaising with them within the app.
 
 ### Beyond MI, London
 <span style="float: right;">September 2023 - January 2023</span>
-### Data Governance Analyst
+#### Data Governance Analyst
 - **Implemented Python scripts** to automate weekly financial crime dashboards,
 **optimizing reporting efficiency** and facilitating timely insights through **enhanced
 data visualization** with **decrease in 47% manual error within regulation and
@@ -59,7 +64,7 @@ effective
 
 ### Drishti Works, Mumbai
 <span style="float: right;">December 2019 – September 2021</span>
-### Data Analyst
+#### Data Analyst
 - **Preprocessed over 1500 raw data** on monthly basis using **Python libraries and image
 segmentation techniques** to generate refined datasets for machine learning model
 training, distributing them among the team on a weekly basis for **collaborative
@@ -79,7 +84,7 @@ communication and **progress monitoring for timely project completion**
 ## Education
 ### University of Surrey, Guildford
 <span style="float: right;">September 2021- January 2023</span>
-### MSc Business Analytics
+#### MSc Business Analytics
 - Coursework: Data Analytics, Supply Chain Management, Statistics and Econometrics,
 Marketing Analytics, Operational Analytics, Machine Learning & Visualization.
 - Dissertation: Sentiment Analysis as a tool for Business Analytics in the Food Sector.
